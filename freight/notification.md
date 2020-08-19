@@ -6,7 +6,7 @@ This document proposes a component for notifications. Primarily used for sending
 accepted
 
 ## 3 Component purpose
-Provides an abstration of using iterable as our platform for sending emails. If we change from using iterable in the future we only have to change one component.
+Provides an abstraction of using iterable as our platform for sending emails. If we change from using iterable, in the future, we only have to change one component.
 
 ## 4 Capability
 ### 4.1 Level 1
@@ -14,7 +14,7 @@ N/A
 
 ## 5 API
 ### 5.1 Short API description
-There is the ability to setup notification types (where you can set the iterable id to a freindly name, and supply API key). Then the ability to send a notification using that type.
+There is the ability to setup notification types (where you can set the iterable id to a freindly name, and supply API key). Also the ability to send a notification using that type.
 
 ### 5.2 Contract
 https://notification-component-test.freight.np.dfds.cloud/swagger/index.html (Test - not yet in UAT/Prod)
@@ -30,4 +30,4 @@ N/A
 Hosted in Fargate, Phoenix freight AWS account
 
 ## 8 Inner architecture
-Secured with OAuth2 client credentials currently using Cognito
+Secured with OAuth2 client credentials currently using AWS Cognito
