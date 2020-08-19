@@ -1,6 +1,6 @@
 # Notification RFC
 ## 1 Abstract
-This document proposes a component for notifications. Primarily used for send emails.
+This document proposes a component for notifications. Primarily used for sending emails.
 
 ## 2 Status
 accepted
