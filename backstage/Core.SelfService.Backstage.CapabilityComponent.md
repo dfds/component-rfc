@@ -28,8 +28,16 @@ TODO
 - *Capability Created* - Raised by the CapabilityService when a new capability is created.
 
 - *Capability Updated* - Raised by the CapabilityService when a new capability is updated.
-- 
+  
 - *Capability Deleted* - Raised by the CapabilityService when a new capability is deleted.
+
+### 5.3 DOM
+#### 5.3.1 Custom Element
+dfds-capability-plugin
+
+#### 5.3.2 Custom attributes
+TODO
+
 
 ## 7 Hosting
 Hosted in Hellman as a "managed capability" and integrated in Backstage as a "plugin".
