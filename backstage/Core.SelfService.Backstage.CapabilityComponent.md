@@ -13,23 +13,23 @@ Provides a overview of DFDS capabilities containing helpful meta data about loca
 Core.SelfService.Component.Capability
 
 ## 5 API
-### 5.1 Short API description
+### 5.1 REST
+#### 5.1.1 API description
 TODO
 
-### 5.2 Contract
+#### 5.1.2 Contract
 TODO
 
-## 6 Events
-### 6.1 Events published by the component
+### 5.2 Event
+#### 5.2.1 Events published by the component
 - *Capability Registered* - Raised when a new capability has been registered in the UI.
 
-### 6.2 Events subscribed to by the component
+#### 5.2.2 Events subscribed to by the component
 - *Capability Created* - Raised by the CapabilityService when a new capability is created.
 
 - *Capability Updated* - Raised by the CapabilityService when a new capability is updated.
 - 
 - *Capability Deleted* - Raised by the CapabilityService when a new capability is deleted.
-
 
 ## 7 Hosting
 Hosted in Hellman as a "managed capability" and integrated in Backstage as a "plugin".
