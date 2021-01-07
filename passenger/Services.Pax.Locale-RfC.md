@@ -3,7 +3,7 @@
 This document proposes a component for country settings that includes languages, currency (names/codes), date- and timeformats, phonenumber prefixes etc.
 
 ## 2 Status
-Suggested
+Rejected
 
 ## 3 Component purpose
 Provides general country information like languages, currency (names/codes), date- and timeformats, phonenumber prefixes etc.
