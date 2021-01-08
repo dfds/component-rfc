@@ -11,14 +11,14 @@ Specialized in interaction with the Iterable API. The component will also own th
 
 ## 4 Capability
 ### 4.1 Level 1
-TBD
+Manage customers
 
 ## 5 API
 ### 5.1 Short API description
-No plans of API ATM
+The API can be used to GET an outstanding payment URL for a reservation.
 
 ### 5.2 Contract
-Not yet available
+https://api.hellman.oxygen.dfds.cloud/prod/customercommunication/swagger/index.html
 
 ## 6 Events
 ### 6.1 Events published by the component
