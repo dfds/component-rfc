@@ -1,4 +1,4 @@
-# Services.Pax.Passenger RFC
+# Services.Passenger RFC
 ## 1 Abstract
 This document proposes a component that will handle and store passengers. The component will expose an API for adding and handling passengers.
 
