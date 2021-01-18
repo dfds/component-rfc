@@ -28,7 +28,7 @@ https://dfds.sharepoint.com/sites/ITDigitalPassengerTribe/Shared%20Documents/Gen
 No planned events ATM
 
 ## 7 Hosting
-Hellman k8s cluster in AWS
+Hellman k8s cluster in AWS in OperatePorts namespace.
 
 ## 8 Inner architecture
-Initial version will consist of a Postgres DB. The API will assign clients roles with OAuth to specifiy request origin.
+Initial version will consist of a Postgres DB. The API will assign clients roles with OAuth to specifiy request origin. The repo name Services.Passenger.
