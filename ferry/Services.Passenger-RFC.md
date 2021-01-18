@@ -10,7 +10,7 @@ The component will store passenger information for all departures
 
 ## 4 Capability
 ### 4.1 Level 1
-Manage customers
+Services.Passenger
 
 ## 5 API
 ### 5.1 Short API description
