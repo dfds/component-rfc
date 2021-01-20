@@ -6,7 +6,7 @@ This document proposes a component that will handle passenger bookings as basket
 Open
 
 ## 3 Component purpose
-Keeps track of a customer's booking and it's content, such as departures, passengers, vehicles. 
+Keeps track of a customer's booking and it's content, such as departures, passengers, vehicles.  
 A basket lives in the component until it has been payed for or times out.
 
 ## 4 Capability
@@ -15,9 +15,9 @@ PassengerBooking
 
 ## 5 API
 ### 5.1 Short API description
-The API can be used to POST a basket when initiating a booking
-The API can be used to PUT a basket for updating it's content
-The API can be used to GET a basket (including basket status and content)
+The API can be used to POST a basket when initiating a booking  
+The API can be used to PUT a basket for updating it's content  
+The API can be used to GET a basket (including basket status and content)  
 
 ### 5.2 Contract
 https://dfds.sharepoint.com/sites/ITDigitalPassengerTribe/Shared%20Documents/General/Trojans/Project%20documents/New%20Booking%20Experience%202021/services.pax.basket.yml
@@ -39,5 +39,5 @@ TBD
 Hellman k8s cluster in AWS
 
 ## 8 Inner architecture
-Events are published to ?
-Aurora MySQL Database ?
+Events are published to Kafka.  
+Database ?  
