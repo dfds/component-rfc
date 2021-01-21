@@ -11,7 +11,7 @@ A basket lives in the component until it has been payed for or times out.
 
 ## 4 Capability
 ### 4.1 Level 1
-Make Ferry Bookings (new capability)
+Package-Holidays
 
 ## 5 API
 ### 5.1 Short API description
@@ -43,5 +43,6 @@ TBD
 Hellman k8s cluster in AWS
 
 ## 8 Inner architecture
-Events are published to Kafka.  
-Database ?  
+Events are published to Kafka  
+DynamoDB  
+Security for communication directly to this service (fx BFF's) will be OAuth
